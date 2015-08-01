@@ -1,0 +1,16 @@
+﻿Сборка начата 26.07.2015 14:06:44.
+     1>Проект "D:\WORK\Projects\Visual c++ Projects\4e4nya\pelengKvadrat\pelengKvadrat.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Lib\Functions.cpp main.cpp
+         main.cpp
+         Functions.cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\WORK\Projects\Visual c++ Projects\4e4nya\Debug\pelengKvadrat.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\WORK\Projects\Visual c++ Projects\4e4nya\Debug\pelengKvadrat.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\WORK\Projects\Visual c++ Projects\4e4nya\Debug\pelengKvadrat.lib" /MACHINE:X86 Debug\Functions.obj
+         Debug\main.obj
+         pelengKvadrat.vcxproj -> D:\WORK\Projects\Visual c++ Projects\4e4nya\Debug\pelengKvadrat.exe
+     1>Сборка проекта "D:\WORK\Projects\Visual c++ Projects\4e4nya\pelengKvadrat\pelengKvadrat.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.79
